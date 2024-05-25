@@ -4,7 +4,7 @@ Pada Project 6 ini Data Warehouse yang ada pada postgres akan dimasukkan dalam H
 Requirement tabel data mart:
 output columns: month, total_orders
  task yang harus dikerjakan :
-- Extract data source ke database postgres (skip, sudah ada di project 3).
+- Extract data source ke database postgres.
 - Buat file DWH ‘dim_orders’ dengan menggunakan hadoop.
 - Buat data mart ‘total_orders_based_on_month’ dengan MapReduce, data diambil dari DWH.
 
